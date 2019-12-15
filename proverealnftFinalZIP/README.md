@@ -1,4 +1,4 @@
-# ReadMe
+# ProveReal NFT
 
 This directory is a truffle project with the following sub-directories:
 
